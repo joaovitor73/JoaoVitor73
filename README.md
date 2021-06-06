@@ -5,8 +5,12 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt = "rails"  height="30" width="40" style = "max-width:100;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt = "rails"  height="30" width="40" style = "max-width:100;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt = "rails"  height="30" width="40" style = "max-width:100;"></img>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitor733)](https://github.com/JoaoVitor733/github-readme-stats)
+ 
+<div>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=16&theme=dracula"/>
+</div>
 
 <!--
 **JoaoVitor733/JoaoVitor733** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
