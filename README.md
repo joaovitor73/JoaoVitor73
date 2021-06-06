@@ -10,6 +10,12 @@
   <a href="https://github.com/JoaoVitor733">
   <img height="100em" src="https://github-readme-stats.vercel.app/api?username=JoaoVitor733&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
+ 
+ <p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/devarthurribeiro/count.svg" />
+</p>
+
 
 <!--
 **JoaoVitor733/JoaoVitor733** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
