@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-##Skills😁
+## Skills😁
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt = "rails"  width = "40" height = "40" style = "max-width:100;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt = "rails"  width = "40" height = "40" style = "max-width:100;"></img>
