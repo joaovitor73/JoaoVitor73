@@ -13,7 +13,7 @@
  
  <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/devarthurribeiro/count.svg" />
+  <img src="https://profile-counter.glitch.me/JoaoVitor733/count.svg" />
 </p>
 
 
