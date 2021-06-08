@@ -17,7 +17,7 @@
   <img src="https://profile-counter.glitch.me/JoaoVitor733/count.svg" />
 </p>
 
-;
+
 <!--
 **JoaoVitor733/JoaoVitor733** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
