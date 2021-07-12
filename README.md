@@ -12,6 +12,8 @@
   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitor733&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
  
+ <a href = "mailto:joao.vieira.712@ufrn.edu.br.tech"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 
  <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/JoaoVitor733/count.svg" />
