@@ -12,7 +12,7 @@
   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitor733&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
  
- <a href = "joao.vieira.712@ufrn.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href = "malito:joao.vieira.712@ufrn.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
  <p align="center"> 
   Visitor count<br>
