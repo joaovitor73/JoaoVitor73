@@ -13,10 +13,10 @@
 </div>
  
  ## Contact 
-
+<div>
     <a href="mailto:joao.vieira.712@ufrn.edu.br">
-       <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mateusaraujo996@gmail.com">
- 
+       <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:joao.vieira.712@ufrn.edu.br">
+ </div>
  <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/JoaoVitor733/count.svg" />
