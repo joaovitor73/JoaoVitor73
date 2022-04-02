@@ -16,8 +16,7 @@
  
  ## Contact 
 <div>
-    <a href="mailto:joao.vieira.712@ufrn.edu.br">
-       <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:joao.vieira.712@ufrn.edu.br">
+     <a href = "mailto:joao.vieira.712@ufrn.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
  </div>
  <p align="center"> 
   Visitor count<br>
