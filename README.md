@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://www.youtube.com/watch?v=ZzDDmi7JhEo"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 ## Skills😁
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt = "rails"  height="40" width="40" style = "max-width:100;"></img>
@@ -11,10 +13,14 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt = "rails"  height="40" width="40" style = "max-width:100;"></img>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt = "rails"  height="40" width="40" style = "max-width:100;" ></img>
 <div>
+ 
+ 
   <a href="https://github.com/JoaoVitor733">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JoaoVitor733&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitor733&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
+ 
+ <a href="https://www.youtube.com/watch?v=ZzDDmi7JhEo"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
  
  ## Contact 
 <div>
