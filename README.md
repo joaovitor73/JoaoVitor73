@@ -12,6 +12,10 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt = "rails"  height="40" width="40" style = "max-width:100;"></img>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt = "rails"  height="40" width="40" style = "max-width:100;"></img>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt = "rails"  height="40" width="40" style = "max-width:100;" ></img>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" alt = "rails"  height="40" width="40" style = "max-width:100;" ></img>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt = "rails"  height="40" width="40" style = "max-width:100;" ></img>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt = "rails"  height="40" width="40" style = "max-width:100;" ></img>
+
 <div>
  
  
