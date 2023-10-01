@@ -1,7 +1,7 @@
 <!--<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 # Welcome 🤖
-<img src="https://github.com/joaovitor73/JoaoVitor73/assets/83173020/e0a67ac5-2f5b-43f8-b5b0-90d470cba1da"  align="right" height="250" width="400" style = "max-width:100;"></img>
+<img src="https://github.com/joaovitor73/JoaoVitor73/assets/83173020/e0a67ac5-2f5b-43f8-b5b0-90d470cba1da"  align="right" height="250" width="300" style = "max-width:100;"></img>
 
 ## Studying 🧑‍💻
 
