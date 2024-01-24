@@ -9,7 +9,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" alt = "flutter"  height="40" width="40" style = "max-width:100;" ></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt = "spring_boot"  height="40" width="40" style = "max-width:100;" ></img>
 <img src="https://pic1.zhimg.com/v2-6d950e5b46badc6bf0f09ca91722b2b9_720w.jpg?source=172ae18balt" alt = "spring_boot"  height="40" width="40" style = "max-width:100;" ></img>
-<img src="https://github.com/joaovitor73/JoaoVitor73/assets/83173020/37cb2647-61f4-4b66-ad96-328c43a52307" alt = "react"  height="40" width="40" style = "max-width:100;" ></img>
+<img src="https://github.com/joaovitor73/JoaoVitor73/assets/83173020/37cb2647-61f4-4b66-ad96-328c43a52307" alt = "react"  height="35" width="40" style = "max-width:100;" ></img>
+<img src="https://github.com/joaovitor73/JoaoVitor73/assets/83173020/704b6a8d-4069-49b1-bc30-81294d6158d2" alt = "laravel"  height="40" width="40" style = "max-width:100;" ></img>
 
  
 ## Skills 🤹‍♂️
