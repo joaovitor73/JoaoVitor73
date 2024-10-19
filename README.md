@@ -12,7 +12,7 @@ Systems Analysis and Development student at UFRN. Working with **Spring Boot**, 
 - **Languages**: Java, Python, C++, JavaScript
 - **Web**: HTML5, CSS3
 - **Databases**: PostgreSQL, MySQL
-- **Tools**: Figma, Git, Linux
+- **Tools**: Figma, Git, Linux, Docker
 
 ### 📫 Contact
 - **Email**: joaovictor73307@gmail.com
