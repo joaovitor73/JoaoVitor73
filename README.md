@@ -40,13 +40,13 @@
 
 ## Connect with me:
 <p align="left">
-  <a href="mailto:joaovictor73307@gmail.com" title="Gmail">
+  <a href="mailto:joaovictor73307@gmail.com" title="Gmail" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/joaovitor73/" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/joaovitor73/" title="LinkedIn" target="_blank">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaovitor73/" alt="LinkedIn"/></a>
-  <a href="#" title="GitLab">
+  <a href="#" title="GitLab" target="_blank">
   <img src="https://img.shields.io/badge/GitLab-330F63?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab"/></a>
-  <a href="https://www.youtube.com/@_joaovitor73" title="YouTube">
+  <a href="https://www.youtube.com/@_joaovitor73" title="YouTube" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="Youtube"/></a>
 </p>
 
