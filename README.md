@@ -5,16 +5,14 @@
 
 ## Studying 🧑‍💻
 
-<img src="https://github.com/joaovitor73/JoaoVitor73/assets/83173020/6770f31f-e789-4861-a1d0-129c39e6f871" alt = "opencv"  height="40" width="40" style = "max-width:100;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" alt = "flutter"  height="40" width="40" style = "max-width:100;" ></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt = "spring_boot"  height="40" width="40" style = "max-width:100;" ></img>
-<img src="https://pic1.zhimg.com/v2-6d950e5b46badc6bf0f09ca91722b2b9_720w.jpg?source=172ae18balt" alt = "spring_boot"  height="40" width="40" style = "max-width:100;" ></img>
-<img src="https://github.com/joaovitor73/JoaoVitor73/assets/83173020/37cb2647-61f4-4b66-ad96-328c43a52307" alt = "react"  height="35" width="40" style = "max-width:100;" ></img>
-<img src="https://github.com/joaovitor73/JoaoVitor73/assets/83173020/704b6a8d-4069-49b1-bc30-81294d6158d2" alt = "laravel"  height="40" width="40" style = "max-width:100;" ></img>
-<img src="https://github.com/joaovitor73/JoaoVitor73/assets/83173020/7ebd91b1-82b8-48a9-96c2-44fe2e0bbc36" alt = "mysql"  height="40" width="40" style = "max-width:100;" ></img>
+
+
 
  
 ## Skills 🤹‍♂️
+<img src="https://github.com/joaovitor73/JoaoVitor73/assets/83173020/6770f31f-e789-4861-a1d0-129c39e6f871" alt = "opencv"  height="40" width="40" style = "max-width:100;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt = "java"  height="40" width="50" style = "max-width:100;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt = "cplusplus"  height="40" width="40" style = "max-width:100;"></img>
 <img src="https://github.com/joaovitor73/JoaoVitor73/assets/83173020/1e075796-6e21-4cc2-9be4-c4fd8eb31675" alt = "octave"  height="40" width="40" style = "max-width:100;"></img>
@@ -23,7 +21,10 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt = "html"  height="40" width="40" style = "max-width:100;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt = "css"  height="40" width="40" style = "max-width:100;" ></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt = "postgres"  height="40" width="40" style = "max-width:100;" ></img>
-<img src="https://github.com/joaovitor73/JoaoVitor73/assets/83173020/18be6db6-67ef-424f-a2d2-5168cb518bed" alt = "sbotics"  height="40" width="40" style = "max-width:100;" ></img>
+<img src="https://github.com/joaovitor73/JoaoVitor73/assets/83173020/7ebd91b1-82b8-48a9-96c2-44fe2e0bbc36" alt = "mysql"  height="40" width="40" style = "max-width:100;" ></img>
+<img src="https://github.com/joaovitor73/JoaoVitor73/assets/83173020/704b6a8d-4069-49b1-bc30-81294d6158d2" alt = "laravel"  height="40" width="40" style = "max-width:100;" ></img>
+<img src="https://github.com/joaovitor73/JoaoVitor73/assets/83173020/37cb2647-61f4-4b66-ad96-328c43a52307" alt = "react"  height="35" width="40" style = "max-width:100;" ></img>
+
 
 ## Statistics 📈
 <div> 
